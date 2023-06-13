@@ -3,7 +3,7 @@ package penilaian;
 
 public class Mahasiswa {
     //variabel
-    private String npm, nama;
+    String npm, nama;
     
     //constructor
     public Mahasiswa(String npm, String nama, String prodi){
